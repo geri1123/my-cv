@@ -8,44 +8,49 @@
 ---
 
 ## 🧠 Professional Summary
-Experienced full-stack developer with a robust background in building scalable and high-performance web applications. Proficient in modern JavaScript frameworks and libraries, including **React**, **Node.js**, and **Next.js**, with a strong command of server-side technologies like **Express.js**.  
+Experienced Full-Stack Developer with a strong background in building scalable, high-performance web applications. Skilled in both frontend and backend ecosystems, with deep expertise in React, Next.js, Node.js, NestJS, and Spring Boot.
 
-Skilled in crafting dynamic user interfaces using **CSS**, **Tailwind CSS**, and **Bootstrap**, and adept at implementing and managing databases such as **MongoDB** and **MySQL**.
+Proficient in developing robust server-side architectures using Express.js, NestJS, and Spring Boot (Java) while ensuring smooth integration with modern frontend frameworks. Adept at designing and integrating RESTful APIs and GraphQL endpoints to enable efficient data exchange and seamless client-server communication.
 
-Adept at designing and integrating **RESTful APIs** and **GraphQL** to facilitate efficient data exchange and ensure seamless client-server communication.  
+Skilled in crafting responsive, interactive UIs using CSS, Tailwind CSS, and Bootstrap, backed by solid experience with MongoDB, MySQL, and PostgreSQL databases.
 
-Experienced with development tools and practices including **Git** for version control, **Docker** for containerization, and **CI/CD pipelines** for streamlined deployment and testing.  
-
-Committed to writing clean, maintainable code and utilizing unit testing to deliver reliable software solutions. Passionate about leveraging the latest technologies to solve complex problems and deliver innovative solutions that meet both user needs and business objectives.
-
+Proven experience with Docker, CI/CD pipelines, and cloud deployment using AWS, Vercel, and Netlify. Committed to writing clean, maintainable code, applying unit testing, and implementing best practices in security, scalability, and performance optimization.
 ---
 
 ## 🛠️ Technical Skills
-- 💻 **Languages**: JavaScript, PHP, HTML  
+- 💻 **Languages**: JavaScript (ES6+), TypeScript, Java, PHP, HTML
 - 🎨 **Stylesheets**: CSS, Tailwind CSS, Bootstrap  
-- 🧩 **Frameworks/Libraries**: React, Node.js, Express.js, Next.js  
-- 🛢️ **Databases**: MongoDB, MySQL  
-- 🛠️ **Tools**: Git, Docker  
-- 📡 **Others**: RESTful APIs, GraphQL, Unit Testing, CI/CD
+- 🧩 **Frameworks/Libraries**:
+- Frontend: React, Next.js
+- Backend: Node.js, Express.js, NestJS, Spring Boo
+- 🛢️ **Databases**: MongoDB, MySQL, PostgreSQL, Firebase Firestore, Supabase
+-☁️ **DevOps & Tools**:Docker, Git, GitHub Actions, CI/CD, Kubernetes (Basics), Nginx
+-📡 **APIs & Integrations**:RESTful APIs, GraphQL, WebSockets (Socket.io), Stripe, Twilio, Firebase
 
 ---
 
 ### 🔹 Additional Skills
-- 🔐 API Authentication (JWT, OAuth)  
-- 📲 Message Authentication (Twilio, Firebase OTP)  
-- 📱 Responsive Web Design & Mobile Optimization  
-- 🧠 JavaScript DOM Manipulation  
-- 🔁 React Router & State Management (Redux, Context API)  
-- 💳 Secure Payment Integration with Stripe  
-- 🧩 Managing Complex Database Relationships  
-- 🔒 Web Security (CSRF, CORS, XSS Protection)  
-- 🚀 Performance Optimization (Lazy Loading, Code Splitting)  
-- ☁️ Serverless Computing (AWS Lambda, Firebase Functions)  
-- 🧱 Microservices & Monolithic Architecture  
-- 🔌 WebSockets & Real-Time Applications (Socket.io)  
-- 📝 Headless CMS (Strapi, Contentful)  
-- 🌩️ Cloud Platforms (AWS, Vercel, Netlify)  
-- 🔧 DevOps Basics (CI/CD, Docker Containers, Kubernetes)
+🔐 Authentication & Security: JWT, OAuth2, CSRF, CORS, XSS Protection
+
+🧠 State Management: Redux, Context API, Zustand
+
+📱 Responsive Web Design & PWA Development
+
+🔄 Microservices Architecture with Docker & NestJS
+
+🧱 Monolithic & Serverless Systems (AWS Lambda, Firebase Functions)
+
+💳 Payment Integration (Stripe, PayPal)
+
+🚀 Performance Optimization (Lazy Loading, Code Splitting, Caching)
+
+🧩 Headless CMS: Strapi, Contentful
+
+🌩️ Cloud Platforms: AWS, Google Cloud, Vercel, Netlify
+
+🔧 Testing: Jest, Mocha, JUnit
+
+🧰 API Documentation: Swagger, Postman
 
 ---
 
