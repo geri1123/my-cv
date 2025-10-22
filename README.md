@@ -22,7 +22,7 @@ Proven experience with Docker, CI/CD pipelines, and cloud deployment using AWS, 
 - 🎨 **Stylesheets**: CSS, Tailwind CSS, Bootstrap  
 - 🧩 **Frameworks/Libraries**:
 - Frontend: React, Next.js
-- Backend: Node.js, Express.js, NestJS, Spring Boo
+- Backend: Node.js, Express.js, NestJS, Spring Boot
 - 🛢️ **Databases**: MongoDB, MySQL, PostgreSQL, Firebase Firestore, Supabase
 -☁️ **DevOps & Tools**:Docker, Git, GitHub Actions, CI/CD, Kubernetes (Basics), Nginx
 -📡 **APIs & Integrations**:RESTful APIs, GraphQL, WebSockets (Socket.io), Stripe, Twilio, Firebase
@@ -56,7 +56,7 @@ Proven experience with Docker, CI/CD pipelines, and cloud deployment using AWS, 
 
 ## 💼 Work Experience
 ### 🧑‍💻 Software Developer  
-📆 *January 2021 – Present*
+📆 *January 2020 – Present*
 
 - 📦 **Project Management**: Led development of over 10 client projects, including e-commerce sites and web applications, from conception to deployment. Managed timelines, milestones, and client coordination.
 - 🛠️ **Technology Expertise**: Built high-performance apps using React, Next.js, Node.js, Express.js, and designed responsive UIs with Tailwind CSS and Bootstrap.
